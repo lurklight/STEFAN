@@ -55,7 +55,7 @@ local Aiming = {
     SelectedPosition = nil,
     SelectedPositionOnScreen = nil,
 
-    TargetPart = {"Head", "LeftHand", "LeftFoot", "LeftLowerLeg", "UpperTorso", "LeftUpperLeg", "RightLowerLeg", "RightFoot", "LowerTorso"},
+    TargetPart = {"Head", "LeftHand", "LeftLowerLeg", "UpperTorso", "LeftUpperLeg", "RightLowerLeg", "LowerTorso"},
 
     Ignored = {
         Teams = {
